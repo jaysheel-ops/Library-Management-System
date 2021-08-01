@@ -31,6 +31,7 @@ To execute the following app, the following Prerequisite are required-
   -->This creates a local database,and tables within the database for our app to operate on.
 
 After complete installation of the prerequisites you can successfully launch the app through your terminal by writing the following code - 
+
   -->While doing this make sure your cmd is in the current working directory
   
      python main.py 
